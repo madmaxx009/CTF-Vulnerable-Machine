@@ -36,3 +36,29 @@ Download the .ova file from the above link.
 Open VirtualBox or VMware.
 Import the .ova file and configure network settings as needed.
 Start the machine and begin your attack!
+
+----
+
+##Walkthrough (Spoiler-Free)
+
+Enumeration: Identify open services (FTP, SSH, Web) and analyze vulnerabilities.
+Initial Foothold: Find the weak credentials or exploit misconfigurations.
+Privilege Escalation: Analyze cron jobs, file permissions, and hidden scripts to escalate privileges.
+Capture the Flags: Retrieve user.txt and root.txt.
+
+
+----
+
+
+## Hints
+
+Check FTP for interesting files.
+Look at hidden messages in images.
+Listen carefully to the audio files.
+Inspect scheduled tasks (cronjobs).
+
+----
+
+
+## Writeups & Solutions
+If you've completed this machine, feel free to submit a write-up or share your methodology!
