@@ -39,12 +39,12 @@ Start the machine and begin your attack!
 
 ----
 
-##Walkthrough (Spoiler-Free)
+## Walkthrough (Spoiler-Free)
 
 Enumeration: Identify open services (FTP, SSH, Web) and analyze vulnerabilities.
 Initial Foothold: Find the weak credentials or exploit misconfigurations.
 Privilege Escalation: Analyze cron jobs, file permissions, and hidden scripts to escalate privileges.
-Capture the Flags: Retrieve user.txt and root.txt.
+Capture the Flags: Retrieve user1.txt, user2.txt and root.txt.
 
 
 ----
@@ -62,3 +62,7 @@ Inspect scheduled tasks (cronjobs).
 
 ## Writeups & Solutions
 If you've completed this machine, feel free to submit a write-up or share your methodology!
+
+------
+
+Happy hacking .
