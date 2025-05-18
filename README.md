@@ -27,7 +27,8 @@ root.txt - Accessible only through a cron job exploit
 ## Download & Setup
 Due to GitHub's file size limitations, download the virtual machine from the link below:
 
-   TryHackeMe(https://tryhackme.com/room/grapplerpwn)
+ 🔗 TryHackeMe(https://tryhackme.com/room/grapplerpwn)
+ 
 🔗 [Download GrapplerPWN VM](https://drive.google.com/file/d/1oWBU1vfndADTLIpv0O2xHgNNwFFgZ_T7/view?usp=drive_link)
 
 Importing the VM
