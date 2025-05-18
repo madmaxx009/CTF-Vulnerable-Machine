@@ -131,7 +131,7 @@ With the decoded SSH credentials, we attempt to log in using Hydra to brute-forc
 providing our wordlist (fasttrack.txt).
 
 ```bash
-hydra -l ****** -P fasttrack.txt ssh://192.168.1.6 -t 4 -v
+hydra -l ****** -P fasttrack.txt ssh://<ip> -t 4 -v
 ```
 
 Credentials:
